@@ -1,3 +1,3 @@
 # IIT-legged-robots-scripts
-None
-相关资源展示
+相关资料从此获取
+知乎：https://www.zhihu.com/people/RoboticControl
